@@ -1,0 +1,7 @@
+noisereduce
+scipy
+numpy
+imageio-ffmpeg
+torch
+torchvggish
+resampy
